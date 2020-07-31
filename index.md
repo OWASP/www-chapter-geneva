@@ -5,6 +5,9 @@ tags: home, geneva
 site_side: true
 
 region: Europe
+meetup-group: OWASP-Geneva-Chapter
+country: Switzerland
+postal-code: 
 
 ---
 
