@@ -7,6 +7,7 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Downloads or Social Links
+* [Meetup](https://www.meetup.com/OWASP-Geneva-Chapter/)
 * [twitter](https://twitter.com/owasp_geneva) 
 * [linkedin](https://www.linkedin.com/groups/5065030/)
 * [eventbrite](https://www.eventbrite.com/o/owasp-geneva-chapter-4119609811)
