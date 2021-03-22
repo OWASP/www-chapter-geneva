@@ -13,7 +13,8 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 ://twitter.com/owasp_geneva) de la section. 
 Ils sont également publiés sur [le calendrier](https://calendar.google.com/calendar/embed?src=owasp.org_durrij6j25be74fb82ls9868lk%40group.calendar.google.com&ctz=Europe%2FZurich) de la section.
 
-#### PROCHAIN MEETING : Février 2020
-Lieu: Genève (centre-ville)
-Thème: à venir
-Inscription: à venir
+#### PROCHAIN MEETING : Mars 2021
+
+- Lieu: Genève (centre-ville)
+- Thème: à venir
+- Inscription: à venir
