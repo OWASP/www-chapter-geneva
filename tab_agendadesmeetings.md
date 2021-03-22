@@ -22,13 +22,14 @@ Ils sont également publiés sur [le calendrier](https://calendar.google.com/cal
 
 **Et si on commençait par le début plutôt que de suivre une approche Shift Left ?**
 
-Ces dernières années, l'industrie des produits de sécurité a largement communiqué sur l'approche Shift Left:
-déléguer le plus possible, notamment via des outils en libre service, les activités sécurité aux développeurs puisqu'ils sont bien plus nombreux que les trop rares ingénieurs en sécurité applicative.
-Dans les faits peu de témoignages publics sont disponibles sur le succès de ce démarche, y compris de la part des géants du web qui ont l'habitude de communiquer largement sur leur manière de travailler.
+Depuis plusieurs années, l'industrie des produits de sécurité communique à large échelle sur l'approche "shift left", consistant à déléguer le plus possible (notamment via des outils en libre service) les activités de sécurité aux équipes de développement, compensant ainsi le manque chronique de personnel spécialisé en sécurité applicative.
 
-Dans cette présentation nous prendrons du recul par rapport à ce paradigme Shift Left.
-Notamment parce qu'en pratique le temps disponible est souvent la contrainte principale pour une exécution réussie d'une initiative sécurité.
-Nous proposerons une approche fondée sur l'efficacité de mesures simples applicables dès le début du cycle de développement, plutôt qu'une logique court-termiste de réduction des risques.
+Dans les faits, peu de témoignages sur le succès de cette démarche sont publiquement disponibles, y compris de la part des "géants du web" traditionnellement réputés pour leur communication "ouverte" sur leur manière de travailler.
+
+Durant cette présentation, nous prendrons du recul par rapport au paradigme "shift left". Nous aborderons une réflexion sur le temps mis à disposition du personnel, qui est souvent la contrainte principale pour une mise en œuvre réussie d'une initiative sécurité, ainsi que sur la problématique d'une vision priorisant le court terme.
+
+Finalement, nous proposerons une approche révisée de "shift left", fondée sur des mesures simples, efficaces, applicables dès le début du cycle de développement et avant tout, testée sur le terrain.
+
 
 ### Conférencier
 
