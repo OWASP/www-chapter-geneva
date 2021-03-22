@@ -13,9 +13,10 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 ://twitter.com/owasp_geneva) de la section. 
 Ils sont également publiés sur [le calendrier](https://calendar.google.com/calendar/embed?src=owasp.org_durrij6j25be74fb82ls9868lk%40group.calendar.google.com&ctz=Europe%2FZurich) de la section.
 
-## PROCHAIN MEETING : Mars 2021
+## PROCHAIN MEETING : Jeudi 25 Mars 2021
 
 - Lieu: Zoom !
+- Horaire: 12h15
 
 ### Sujet
 
