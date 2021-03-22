@@ -43,5 +43,5 @@ Son récent passage chez GitLab lui a procuré une expérience dans une structur
 
 ### Inscription
 
-[Meetup](https://www.meetup.com/OWASP-Geneva-Chapter/)
+[Meetup](https://www.meetup.com/owasp-geneva/events/277084482/)
 
