@@ -5,7 +5,6 @@ layout:  null
 tab: true
 order: 2
 tags: geneva
-meetup-group: owasp-geneva
 ---
 
 Les meetings ont lieu sur une base trimestrielle et se déroulent généralement dans une salle mise à disposition par un sponsor ou par l'un des partenaires académiques/institutionnels de la section.
