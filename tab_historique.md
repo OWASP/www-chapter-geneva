@@ -7,6 +7,12 @@ order: 5
 tags: geneva
 ---
 
+### Jeudi 25 mars 2021 / Thursday March 25th 2021
+
+#### Local chapter meeting
+
+- Lieu/Location: ~~Zoom~~ / ~~Google Meet~~ / kmeet
+- Conférence/Talk: Jérémy Matos - "Et si on commençait par le début plutôt que de suivre une approche Shift Left ?" - [Slides](./assets/slides/OWASP_Geneva_Starting_Left.pdf)
 
 ### Mardi 3 décembre 2019 / Tuesday 3rd December 2019
 
