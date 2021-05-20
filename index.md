@@ -20,3 +20,7 @@ notre [groupe de discussion](https://groups.google.com/a/owasp.org/forum/#!forum
 
 Si vous cherchez la page de la section OWASP Suisse: [OWASP Switzerland chapter](/www-chapter-switzerland).
 
+Upcoming Events
+
+{% include chapter_events.html group=page.meetup-group %}
+
