@@ -7,4 +7,4 @@
 
 
 
-Et pour contacter l'ensemble du comité [cliquez ici](mailto:owasp-geneva@owasp.org)
+Et pour contacter l'ensemble du comité [cliquez ici](mailto:geneva-chapter@owasp.org)
